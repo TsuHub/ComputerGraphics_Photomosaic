@@ -98,7 +98,7 @@ Foi utilizada a imagem da EACH-USP para o processamento da imagem (https://githu
 
 <p align="left">
 
-	Para a geração da imagem fotomosaica, foi diminuída a resolução da imagem EACH_1.jpg de 540 x 960 para 33 x 58.
+	Para a geração da imagem fotomosaica, foi diminuída a resolução da imagem EACH_1.jpg de 960 x 540 para 58 x 33.
 	Em cima desta imagem, a escala dos pixels da imagem foi aumentada para a escala da foto original, utilizando a
 	variável "fatorDeEscala" igualando a 8 pixels para gerar a imagem de resolução menor em 540 x 960, resultando na imagem abaixo:
   
