@@ -12,8 +12,8 @@ Foi utilizada a imagem da EACH-USP para o processamento da imagem (https://githu
   A sequência das imagens abaixo representam o fluxo do o processamento da imagem.
   
 </p>
-
-
+<br/>
+<br/>
 
 
 <p align="center">
@@ -64,18 +64,6 @@ Foi utilizada a imagem da EACH-USP para o processamento da imagem (https://githu
   <b>Fotomosaico 4</b><br>
 </p>
 <br/>
-
-
-
-
-
-![Original](https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/0%20-%20EACH_1.jpg?raw=true)
-![Pixelada Colorida](https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/0.1%20-%20ImagemPixeladaColorida.jpg?raw=true)
-![Pixelada Cinza](https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/0.2%20-%20ImagemPixeladaCinza.jpg?raw=true)
-![Fotomosaico 1](https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/0.3%20-%20Imagem%20Fotomosaica%201.jpg?raw=true)
-![Fotomosaico 2](https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/Imagem%20Fotomosaica%205.jpg?raw=true)
-![Fotomosaico 3](https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/Imagem%20Fotomosaica%206%20-%20Pixel%20aumentado%20em%208%20vezes.jpeg?raw=true)
-![Fotomosaico 3](https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/Imagem%20Fotomosaica%207%20-%20Pixel%20aumentado%20em%204%20vezes.jpeg?raw=true)
 
 ## Execução do programa
 
