@@ -112,7 +112,7 @@ Foi utilizada a imagem da EACH-USP para o processamento da imagem (https://githu
 </p>
 
 
-## Metodo utilizado
+## Método utilizado
 
 <p align="left">
 
