@@ -117,7 +117,7 @@ Foi utilizada a imagem da EACH-USP para o processamento da imagem (https://githu
 <p align="left">
 
 	Com as imagens do dataset, uma média de brilho dos pixels de cada uma das 143 imagens tirada e comparada com o
-	brilho dos "pixels" (quadrados 16 x 16) da imagem original (https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/0%20-%20EACH_1.jpg).
+	brilho dos "pixels" (quadrados 16 x 16) da imagem original.
 	A comparação foi feita utilizando escalas de tons de preto e branco das imagens do dataset e da imagem original.
 	Copiada a imagem pixelada, foi passada uma cópia em escala preto e branco (tons de cinza), obtendo o resultado abaixo:
   
