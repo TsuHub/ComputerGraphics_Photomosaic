@@ -40,7 +40,7 @@ Foi utilizada a imagem da EACH-USP para o processamento da imagem (https://githu
 <p align="center">
   <img width="720" height="405" img src="https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/0.3%20-%20Imagem%20Fotomosaica%201.jpg">
   <br/>
-  <b>Fotomosaico 1 - Com apenas 8 imagens no dataset</b><br>
+  <b>Fotomosaico 1 - Com apenas 8 imagens no dataset e fator de escala igual a 16</b><br>
 </p>
 <br/>
 
