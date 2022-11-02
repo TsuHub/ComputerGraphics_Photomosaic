@@ -13,6 +13,62 @@ Foi utilizada a imagem da EACH-USP para o processamento da imagem (https://githu
   
 </p>
 
+
+
+
+<p align="center">
+  <img src="https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/0%20-%20EACH_1.jpg">
+  <br/>
+  <b>Imagem original</b><br>
+</p>
+<br/>
+
+<p align="center">
+  <img src="https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/0.1%20-%20ImagemPixeladaColorida.jpg">
+  <br/>
+  <b>Pixelada colorida</b><br>
+</p>
+<br/>
+
+<p align="center">
+  <img src="https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/0.2%20-%20ImagemPixeladaCinza.jpg">
+  <br/>
+  <b>Pixelada cinza</b><br>
+</p>
+<br/>
+
+<p align="center">
+  <img src="https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/0.3%20-%20Imagem%20Fotomosaica%201.jpg">
+  <br/>
+  <b>Fotomosaico 1</b><br>
+</p>
+<br/>
+
+<p align="center">
+  <img src="https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/Imagem%20Fotomosaica%205.jpg">
+  <br/>
+  <b>Fotomosaico 2</b><br>
+</p>
+<br/>
+
+<p align="center">
+  <img src="https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/Imagem%20Fotomosaica%206%20-%20Pixel%20aumentado%20em%208%20vezes.jpeg">
+  <br/>
+  <b>Fotomosaico 3</b><br>
+</p>
+<br/>
+
+<p align="center">
+  <img src="https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/Imagem%20Fotomosaica%207%20-%20Pixel%20aumentado%20em%204%20vezes.jpeg">
+  <br/>
+  <b>Fotomosaico 4</b><br>
+</p>
+<br/>
+
+
+
+
+
 ![Original](https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/0%20-%20EACH_1.jpg?raw=true)
 ![Pixelada Colorida](https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/0.1%20-%20ImagemPixeladaColorida.jpg?raw=true)
 ![Pixelada Cinza](https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/0.2%20-%20ImagemPixeladaCinza.jpg?raw=true)
