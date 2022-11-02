@@ -11,7 +11,7 @@ Foi utilizada a imagem da EACH-USP para o processamento da imagem (https://githu
 	
   Dado que o fator de escala é a representação do pixel como sendo um quadrado de tamanho x, para fator de escala sendo igual a x,
 <br/>
-  a sequência das imagens abaixo representa o fluxo do o processamento da imagem.
+  a sequência das imagens abaixo representa o fluxo do processamento da imagem.
   
 </p>
 <br/>
