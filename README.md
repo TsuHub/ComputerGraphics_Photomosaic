@@ -10,6 +10,7 @@ O programa tem a finalidade de gerar uma imagem fotomosaica. Uma imagem fotomosa
 Foi utilizada a imagem da EACH-USP para o processamento da imagem (https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/0%20-%20EACH_1.jpg).
 	
   Dado que o fator de escala é a representação do pixel como sendo um quadrado de tamanho x, para fator de escala sendo igual a x,
+<br/>
   a sequência das imagens abaixo representam o fluxo do o processamento da imagem.
   
 </p>
