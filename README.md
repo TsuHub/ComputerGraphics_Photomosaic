@@ -26,10 +26,9 @@ TsuHub
 <p align="left">
 
 	É necessário possuir o Processing para executar o programa.
-  Para este projeto, foi utilizado o Processing 3.5.4
+ 	Para este projeto, foi utilizado o Processing 3.5.4
 	
-	Para rodar o programa, basta executar o arquivo FotoMosaico/FotoMosaico.pde
-  com o processing.exe
+	Para rodar o programa, basta executar o arquivo FotoMosaico/FotoMosaico.pde com o processing.exe
 	
 </p>
 
@@ -38,16 +37,16 @@ TsuHub
 <p align="left">
 
 	O projeto é composto por:
-    - EACH_1.jpg (imagem original)
-    - data (diretório com 143 arquivos em formato .jpg)
-    - FotoMosaico.pde
-      - setup()
-      - draw()
-      - diminuiImagem(PImage imagem, int largura, int altura)
-      - exibeImagem(int var)
-      - exibeImagemPixelada(color c, int x, int y)
-      - exibeImagemFotomosaica(color c, int x, int y)
-      - substituiPixels()
+	    - EACH_1.jpg (imagem original)
+	    - data (diretório com 143 arquivos em formato .jpg)
+	    - FotoMosaico.pde
+	      - setup()
+	      - draw()
+	      - diminuiImagem(PImage imagem, int largura, int altura)
+	      - exibeImagem(int var)
+	      - exibeImagemPixelada(color c, int x, int y)
+	      - exibeImagemFotomosaica(color c, int x, int y)
+	      - substituiPixels()
 
 </p>
 
@@ -55,9 +54,7 @@ TsuHub
 
 <p align="left">
 
-	Para a geração da imagem fotomosaica, foi diminuída a resolução da imagem EACH_1.jpg de 540 x 960 para 33 x 58. Em cima desta imagem,
-  a escala dos pixels da imagem foi aumentada para a escala da foto original, utilizando a variável "fatorDeEscala" igualando a 8 pixels
-  para gerar a imagem de resolução menor em 540 x 960, resultando na imagem abaixo:
+	Para a geração da imagem fotomosaica, foi diminuída a resolução da imagem EACH_1.jpg de 540 x 960 para 33 x 58. Em cima desta imagem, a escala dos pixels da imagem foi aumentada para a escala da foto original, utilizando a variável "fatorDeEscala" igualando a 8 pixels para gerar a imagem de resolução menor em 540 x 960, resultando na imagem abaixo:
   
   ![Pixelada Colorida](https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/0.1%20-%20ImagemPixeladaColorida.jpg?raw=true)
   
@@ -72,17 +69,14 @@ TsuHub
 
 <p align="left">
 
-	Com as imagens do dataset, uma média de brilho dos pixels de cada uma das 143 imagens tirada e comparada com o brilho dos "pixels"
-  (quadrados 16 x 16) da imagem original (https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/0%20-%20EACH_1.jpg).
-  A comparação foi feita utilizando escalas de tons de preto e branco das imagens do dataset e da imagem original. Copiada a imagem pixelada,
-  foi passada uma cópia em escala preto e branco (tons de cinza), obtendo o resultado abaixo:
+	Com as imagens do dataset, uma média de brilho dos pixels de cada uma das 143 imagens tirada e comparada com o brilho dos "pixels" (quadrados 16 x 16) da imagem original (https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/0%20-%20EACH_1.jpg). A comparação foi feita utilizando escalas de tons de preto e branco das imagens do dataset e da imagem original. Copiada a imagem pixelada, foi passada uma cópia em escala preto e branco (tons de cinza), obtendo o resultado abaixo:
   
   ![Pixelada Cinza](https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/0.2%20-%20ImagemPixeladaCinza.jpg?raw=true)
   
-  Assim, a comparação vai de 0 a 255 em um único canal de cores, diminuindo em 3 vezes o processamento, comparado ao uso dos canais RGB.
+	  Assim, a comparação vai de 0 a 255 em um único canal de cores, diminuindo em 3 vezes o processamento, comparado ao uso dos canais RGB.
   
-  O passo seguinte foi substituir os quadrados 16 x 16 da imagem original pelas fotos do dataset (143 imagens) de acordo com a proximidade de brilho
-  de seus pixels com a média do brilho dos pixels das fotos.
+	  O passo seguinte foi substituir os quadrados 16 x 16 da imagem original pelas fotos do dataset (143 imagens) de acordo com a proximidade de brilho
+	  de seus pixels com a média do brilho dos pixels das fotos.
   
 </p>
 
@@ -92,8 +86,6 @@ TsuHub
 <p align="left">
 
 	Quanto maior a resolução, melhor é o compreendimento da imagem, porém, menores são os pixels, fazendo com que não seja trivial identificar
-  as fotos que compõe os pixels da imagem.
-  
-  E quanto maior o volume amostral do dataset, mais próximo será ao da imagem original.
+	as fotos que compõe os pixels da imagem. E quanto maior o volume amostral do dataset, mais próximo será ao da imagem original.
   
 </p>
