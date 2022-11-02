@@ -8,8 +8,9 @@ TsuHub
 
 O programa tem a finalidade de gerar uma imagem fotomosaica. Uma imagem fotomosaica apresenta imagens para representar seus pixels.
 Foi utilizada a imagem da EACH-USP para o processamento da imagem (https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/0%20-%20EACH_1.jpg).
-
-  A sequência das imagens abaixo representam o fluxo do o processamento da imagem.
+	
+  Dado que o fator de escala é a representação do pixel como sendo um quadrado de tamanho x, para fator de escala sendo igual a x,
+  a sequência das imagens abaixo representam o fluxo do o processamento da imagem.
   
 </p>
 <br/>
@@ -47,21 +48,21 @@ Foi utilizada a imagem da EACH-USP para o processamento da imagem (https://githu
 <p align="center">
   <img width="720" height="405" img src="https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/Imagem%20Fotomosaica%205.jpg">
   <br/>
-  <b>Fotomosaico 2 - 143 imagens no dataset com os pixels representados por um quadrado de tamanho 16</b><br>
+  <b>Fotomosaico 2 - 143 imagens no dataset - fator de escala = 16</b><br>
 </p>
 <br/>
 
 <p align="center">
   <img width="720" height="405" img src="https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/Imagem%20Fotomosaica%206%20-%20Pixel%20aumentado%20em%208%20vezes.jpeg">
   <br/>
-  <b>Fotomosaico 3 - 143 imagens no dataset com os pixels representados por um quadrado de tamanho 8</b><br>
+  <b>Fotomosaico 3 - 143 imagens no dataset - fator de escala = 8</b><br>
 </p>
 <br/>
 
 <p align="center">
   <img width="720" height="405" img src="https://github.com/TsuHub/ComputerGraphics_Photomosaic/blob/main/FotoMosaico/results/Imagem%20Fotomosaica%207%20-%20Pixel%20aumentado%20em%204%20vezes.jpeg">
   <br/>
-  <b>Fotomosaico 4 - 143 imagens no dataset com os pixels representados por um quadrado de tamanho 4</b><br>
+  <b>Fotomosaico 4 - 143 imagens no dataset - fator de escala = 4</b><br>
 </p>
 <br/>
 
